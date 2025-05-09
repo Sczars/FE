@@ -1,4 +1,4 @@
-const URL = "https://1557161b11d7db8e5bc5d84a492e2a9d.serveo.net/";
+const URL = "https://backend-iu6y.onrender.com/";
 import axios, { AxiosError } from "axios";
 import { ChatMessages, UserDetail, UserInList } from "./type";
 
